@@ -1,7 +1,6 @@
 .jumbotron {
   background-image:url('../img/goalden_hour.jpg');
   height: 1152px;
-  margin-bottom: -0px; /* Overwrites stupid white space between jumbotron and next section. */
 }
 
 .jumbotron .container {
@@ -29,7 +28,7 @@
 #mce-EMAIL {
   font-size: 16px;
   height: 35px;
-  width: 450px; 
+  width: 420px; 
 }
 
 .form_btn {
