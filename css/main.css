@@ -21,3 +21,20 @@
   color: #fff;
   width: 700px;
 }
+
+#mc_embed_signup {
+  padding-top: 30px;
+}
+
+#mce-EMAIL {
+  font-size: 16px;
+  height: 35px;
+  width: 450px; 
+}
+
+.form_btn {
+  height: 35px;
+  width: 200px;
+  line-height: 4px;
+  background-color: white;
+}
