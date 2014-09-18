@@ -1,0 +1,23 @@
+.jumbotron {
+  background-image:url('../img/goalden_hour.jpg');
+  height: 1152px;
+  margin-bottom: -0px; /* Overwrites stupid white space between jumbotron and next section. */
+}
+
+.jumbotron .container {
+  position: relative;
+  top: 190px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Droid Serif', serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 24px;
+  color: #fff;
+  width: 700px;
+}
