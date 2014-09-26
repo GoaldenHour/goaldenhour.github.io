@@ -1,3 +1,7 @@
+body {
+  font-family: Baskerville, Georgia, sans-serif;
+}
+
 .jumbotron {
   background-image:url('../img/goalden_hour.jpg');
   height: 1152px;
@@ -5,14 +9,11 @@
 
 .jumbotron .container {
   position: relative;
-  top: 190px;
+  top: 90px;
 }
 
 .jumbotron h1 {
   color: #fff;
-  font-size: 48px;  
-  font-family: 'Droid Serif', serif;
-  font-weight: bold;
 }
 
 .jumbotron p {
@@ -21,19 +22,8 @@
   width: 700px;
 }
 
-#mc_embed_signup {
-  padding-top: 30px;
-}
-
-#mce-EMAIL {
+/*#mce-EMAIL {
   font-size: 16px;
   height: 35px;
-  width: 420px; 
-}
-
-.form_btn {
-  height: 35px;
-  width: 200px;
-  line-height: 4px;
-  background-color: white;
-}
+  width: 480px; 
+}*/
