@@ -1,18 +1,23 @@
-body {
+html{
+  height: 100%;
+}
+body{
   font-family: Baskerville, Georgia, sans-serif;
+  height: 100%;
 }
 
-.jumbotron {
+
+#launch_page_container{
   background-image:url('../img/goalden_hour.jpg');
-  height: 1152px;
+  height: 100%;
+  width: 100%;
 }
-
-.jumbotron .container {
+#launch_page_signup_container{
   position: relative;
   top: 90px;
 }
 
-.jumbotron h1 {
+.launch_page_heading{
   color: #fff;
 }
 
