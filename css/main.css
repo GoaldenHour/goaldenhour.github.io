@@ -8,27 +8,49 @@ body{
 
 
 #launch_page_container{
-  background-image:url('../img/goalden_hour.jpg');
+  display: table;
+  background-image: url('../img/goalden_hour.jpg');
   height: 100%;
   width: 100%;
+  padding: 0px 5px;
 }
 #launch_page_signup_container{
   position: relative;
   top: 90px;
 }
-
 .launch_page_heading{
   color: #fff;
 }
 
-.jumbotron p {
-  font-size: 24px;
-  color: #fff;
-  width: 700px;
+/* mailchimp sign up styles */
+#mce-EMAIL{
+  font-size: 16px;
+  height: 50px;
+}
+@media only screen and (max-width: 1025px) {
+  #mc-embedded-subscribe_container{
+    text-align: center;
+  }
+}
+#mc-embedded-subscribe{
+  height: 50px;
 }
 
-/*#mce-EMAIL {
-  font-size: 16px;
+/* footer styles */
+#footer{
+  display: table-row;
+  vertical-align: bottom;
+  margin: 0 auto;
   height: 35px;
-  width: 480px; 
-}*/
+}
+.footer_title{
+  color: #FFFFFF;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.footer_highlight{
+  background-color: orange;
+  margin: 0 auto;
+  height: 6px;
+  width: 50px;
+}
