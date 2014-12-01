@@ -16,14 +16,18 @@ body{
 }
 #launch_page_signup_container{
   position: relative;
-  top: 90px;
+  top: 120px;
 }
 .launch_page_heading{
   color: #fff;
+  font-family: 'Pontano Sans', sans-serif;
+  /*font-family: 'Istok Web', sans-serif;*/
+  font-weight: bold;
 }
 
 /* mailchimp sign up styles */
 #mce-EMAIL{
+  font-family: 'Pontano Sans', sans-serif;
   font-size: 16px;
   height: 50px;
 }
@@ -33,6 +37,7 @@ body{
   }
 }
 #mc-embedded-subscribe{
+  font-family: 'Pontano Sans', sans-serif;
   height: 50px;
 }
 
