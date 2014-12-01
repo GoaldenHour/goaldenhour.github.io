@@ -39,6 +39,8 @@ body{
 #mc-embedded-subscribe{
   font-family: 'Pontano Sans', sans-serif;
   height: 50px;
+  background-color: orange;
+  /*border: 1px solid #FCB002;*/
 }
 
 /* footer styles */
